@@ -36,13 +36,13 @@
 <h3 align="center">🎧 The Soundscapes (Music & Audio)</h3>
 <p align="center">
   <a href="YOUR_SPOTIFY_ARTIST_URL"><img src="https://img.shields.io/badge/Spotify_Artist-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  <a href="YOUR_SPOTIFY_PLAYLISTS_URL"><img src="https://img.shields.io/badge/Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/21km7frf2nseaauabeav5arcy"><img src="https://img.shields.io/badge/Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="YOUR_APPLE_MUSIC_URL"><img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white"/></a>
   <a href="YOUR_SOUNDCLOUD_URL"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
   <a href="YOUR_BANDCAMP_URL"><img src="https://img.shields.io/badge/Bandcamp-629AA9?style=for-the-badge&logo=bandcamp&logoColor=white"/></a>
 </p>
 
-<h3 align="center">📺 The Transmissions (Video & Streaming)</h3>
+<h3 align="center">🔮 The Transmissions (Video & Streaming)</h3>
 <p align="center">
   <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
@@ -63,7 +63,7 @@
   <a href="YOUR_PASTEBIN_URL"><img src="https://img.shields.io/badge/Pastebin-022B3A?style=for-the-badge&logo=pastebin&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🎬 The Curation (Film, Books & Visuals)</h3>
+<h3 align="center">🏺 The Amphora</h3>
 <p align="center">
   <a href="YOUR_LETTERBOXD_URL"><img src="https://img.shields.io/badge/Letterboxd-00D700?style=for-the-badge&logo=letterboxd&logoColor=white"/></a>
   <a href="YOUR_IMDB_URL"><img src="https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black"/></a>
@@ -71,18 +71,18 @@
   <a href="YOUR_PINTEREST_URL"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🕸️ The Social Nodes (Microblogging & Community)</h3>
+<h3 align="center">🕸️ The Coven: Socials</h3>
 <p align="center">
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/amereyraven"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/amereyraven"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.threads.com/@amereyraven"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
   <a href="YOUR_BLUESKY_URL"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-  <a href="YOUR_FB_PAGE_URL"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61591513262868"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="YOUR_DISCORD_INVITE"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="YOUR_REDDIT_URL"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🩸 The Support Systems</h3>
+<h3 align="center">🩸 The Altars of Patronage</h3>
 <p align="center">
   <a href="YOUR_PATREON_URL"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/></a>
   <a href="YOUR_KOFI_URL"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
@@ -107,7 +107,7 @@
 
 ---
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">☄️ Activity Graph</h2>
 
 <p align="center">
   <!-- Activity Graph using your custom purple/blue theme -->
