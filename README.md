@@ -24,7 +24,7 @@
     "current_focus":  ["Music Production", "Digital Art", "Creative Coding"],
     "motto":          "From the void, we create. 🐦‍⬛✨"
 }
-
+```
 ---
 
 ## 🔗 The Digital Linktree (Socials & Platforms)
