@@ -1,55 +1,26 @@
-<!-- Áme Rey Raven - Central Nexus Header -->
+<!-- Header Wave Animation (Using your Purple to Blue gradient) -->
 <p align="center">
-  <!-- Use relative path "image_1.png" if the file is in this repo, otherwise use full URL -->
-  <img src="image_1.png" width="800px" alt="Áme Rey Raven - Header Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C52FF,100:94B1FF&height=200&section=header&text=Áme%20Rey%20Raven&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Central%20Nexus%20%7C%20Digital%20Echoes&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
-<!-- Initializing Intro -->
+<!-- Animated Typing (Using Nebula Blue) -->
 <p align="center">
-<code>/sys/amereyraven: nexus initialized</code> <br>
-<code>$ cd ~/root_directory/nexus</code> <br>
-<code>// Welcome to the central nexus. Decrypting coordinates...</code>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=94B1FF&center=true&vCenter=true&width=600&lines=Welcome+to+the+Central+Nexus;Feathers,+Code,+and+the+Spaces+Between;Decrypting+Digital+Coordinates...;%E2%9C%A8+Vibrating+at+a+different+frequency+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- The main link block styled as a pseudo-terminal list -->
-<div align="center">
-  <h3>// [ Coordinates & Digital Echoes ] //</h3>
-  <p>
-    <!-- Replace the capitalized URL placeholder text with your actual links -->
-    <a href="YOUR_INSTAGRAM_URL"><code>$ instagr.am / amereyraven</code></a> <br>
-    <a href="YOUR_YOUTUBE_URL"><code>$ youtube.com / amerey raven</code></a> <br>
-    <a href="YOUR_MEDIUM_URL"><code>$ medium.com / @amereyraven</code></a> <br>
-    <a href="YOUR_SUBSTACK_URL"><code>$ substack.com / amereyraven</code></a> <br>
-    <a href="YOUR_BLOGSPOT_URL"><code>$ blogspot.com / amereyraven</code></a> <br>
-    <a href="YOUR_FB_PAGE_URL"><code>$ facebook.com / amereyraven</code></a> <br>
-    <a href="YOUR_SPOTIFY_ARTIST_URL"><code>$ spotify.com / artist/ame</code></a> <br>
-    <a href="YOUR_TWITTER_URL"><code>$ twitter.com / amereyraven</code></a> <br>
-    <a href="YOUR_THREADS_URL"><code>$ threads.net / amereyraven</code></a> <br>
-    <a href="YOUR_SPOTIFY_PLAYLISTS_URL"><code>$ spotify.com / user/playlists</code></a> <br>
-    <a href="github.com/amereyraven"><code>$ github.com / amereyraven</code></a> <br>
-    <a href="YOUR_GOODREADS_URL"><code>$ goodreads.com / amereyraven</code></a> <br>
-    <a href="YOUR_DISCORD_INVITE"><code>$ discord.gg / server</code></a> <br>
-    <a href="YOUR_REDDIT_URL"><code>$ reddit.com / user/amereyraven</code></a> <br>
-    <a href="YOUR_GITLAB_URL"><code>$ gitlab.com / amereyraven</code></a> <br>
-    <a href="YOUR_BLUESKY_URL"><code>$ bsky.app / amereyraven</code></a> <br>
-    <a href="YOUR_PASTEBIN_URL"><code>$ pastebin.com / user</code></a> <br>
-    <!-- Added missing options to complete the nexus -->
-    <a href="YOUR_PERSONAL_PORTFOLIO_URL"><code>$ amereyraven.com / portfolio</code></a> <br>
-    <a href="YOUR_KO-FI_URL"><code>$ ko-fi.com / amereyraven</code></a> <br>
-    <a href="YOUR_TWITCH_URL"><code>$ twitch.tv / amereyraven</code></a>
-  </p>
-</div>
+---
 
-<!-- A block for dynamic status (You can update this manually or via scripts) -->
-<div align="center">
-  <h3>// [ Current Transmission ] //</h3>
-  <p>
-    <code>// Status: Monitoring the star field...</code> <br>
-    <code>// Project: // TODO: Decrypt latest frequency.</code>
-  </p>
-</div>
+## 🌌 The Core
 
-<!-- Terminating signature/aesthetic elements -->
-<p align="center">
-<code>// disconnect_nexus.sh --terminate</code>
-</p>
+```json
+{
+    "identity":       "Áme Rey Raven",
+    "aesthetics":     ["Gothic", "Typewriter", "Stellar Void"],
+    "primary_hex":    "#94B1FF",
+    "secondary_hex":  "#8C52FF",
+    "status":         "Navigating the star field.",
+    "current_focus":  ["Music Production", "Digital Art", "Creative Coding"],
+    "motto":          "From the void, we create. 🐦‍⬛✨"
+}
