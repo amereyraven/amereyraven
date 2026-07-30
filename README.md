@@ -26,14 +26,14 @@
 
 <h2 align="center">🧭 The Coordinates </h2>
 
-<h3 align="center">🪐 The Hubs (Websites & Portfolios)</h3>
+<h3 align="center">🪐 The Hubs </h3>
 <p align="center">
   <a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/🐦‍⬛_Website-000000?style=for-the-badge"/></a>
   <a href="YOUR_WIX_URL"><img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white"/></a>
   <a href="YOUR_NOTION_URL"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🎧 The Soundscapes (Music & Audio)</h3>
+<h3 align="center">🎧 The Soundscapes </h3>
 <p align="center">
   <a href="YOUR_SPOTIFY_ARTIST_URL"><img src="https://img.shields.io/badge/Spotify_Artist-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/21km7frf2nseaauabeav5arcy"><img src="https://img.shields.io/badge/Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
@@ -42,7 +42,7 @@
   <a href="YOUR_BANDCAMP_URL"><img src="https://img.shields.io/badge/Bandcamp-629AA9?style=for-the-badge&logo=bandcamp&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🔮 The Transmissions (Video & Streaming)</h3>
+<h3 align="center">🔮 The Transmissions </h3>
 <p align="center">
   <a href="https://www.youtube.com/@%C3%81meReyRaven"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
@@ -50,7 +50,7 @@
   <a href="YOUR_VIMEO_URL"><img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a>
 </p>
 
-<h3 align="center">📜 The Archives (Writing, Blogging & Code)</h3>
+<h3 align="center">📜 The Archives </h3>
 <p align="center">
   <a href="https://amereyraven.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
   <a href="https://amereyraven.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -71,7 +71,7 @@
   <a href="YOUR_PINTEREST_URL"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🕸️ The Coven: Socials</h3>
+<h3 align="center">🕸️ The Coven </h3>
 <p align="center">
   <a href="https://www.instagram.com/amereyraven"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://x.com/amereyraven"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
