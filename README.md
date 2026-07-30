@@ -30,7 +30,7 @@
 <p align="center">
   <a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/🐦‍⬛_Website-000000?style=for-the-badge"/></a>
   <a href="YOUR_WIX_URL"><img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white"/></a>
-  <a href="YOUR_NOTION_URL"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://amereyraven.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
 <h3 align="center">🎧 The Soundscapes </h3>
