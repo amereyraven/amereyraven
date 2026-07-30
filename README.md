@@ -101,7 +101,7 @@
 
 ---
 
-<h2 align="center">☄️ Activity Graph</h2>
+<h2 align="center">☄️ Footprint</h2>
 
 <p align="center">
   <!-- Activity Graph using your custom purple/blue theme -->
