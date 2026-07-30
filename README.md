@@ -90,22 +90,18 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-
-<p align="center">
-  <!-- Streak Stats customized -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amereyraven&stroke=8C52FF&ring=94B1FF&fire=94B1FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=94B1FF&sideLabels=94B1FF&dates=ffffff&bg_color=0d1117&hide_border=true" height="170"/>
-</p>
-
----
 
 <h2 align="center">☄️ Footprint</h2>
 
 <p align="center">
   <!-- Activity Graph using your custom purple/blue theme -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amereyraven&bg_color=0d1117&color=94B1FF&line=8C52FF&point=ffffff&hide_border=true&area=true" />
+</p>
+
+---
+<p align="center">
+  <!-- Streak Stats customized -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amereyraven&stroke=8C52FF&ring=94B1FF&fire=94B1FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=94B1FF&sideLabels=94B1FF&dates=ffffff&bg_color=0d1117&hide_border=true" height="170"/>
 </p>
 
 ---
