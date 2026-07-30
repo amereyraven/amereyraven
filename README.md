@@ -35,7 +35,7 @@
 
 <h3 align="center">🎧 The Soundscapes </h3>
 <p align="center">
-  <a href="YOUR_SPOTIFY_ARTIST_URL"><img src="https://img.shields.io/badge/Spotify_Artist-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="YOUR_SPOTIFY_ARTIST_URL"><img src="https://img.shields.io/badge/Spotify_Artist_Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/21km7frf2nseaauabeav5arcy"><img src="https://img.shields.io/badge/Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="YOUR_APPLE_MUSIC_URL"><img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white"/></a>
   <a href="YOUR_SOUNDCLOUD_URL"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
