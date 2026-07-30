@@ -55,7 +55,7 @@
   <a href="https://amereyraven.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
   <a href="https://amereyraven.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="YOUR_WORDPRESS_URL"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-  <a href="YOUR_BLOGSPOT_URL"><img src="https://img.shields.io/badge/Blogspot-F37100?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+  <a href="https://amereyraven.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-F37100?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="YOUR_TUMBLR_URL"><img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white"/></a>
   <br>
   <a href="https://github.com/amereyraven"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
