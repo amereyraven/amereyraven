@@ -19,7 +19,7 @@
     "identity":       "Áme Rey Raven",
     "status":         "Navigating the Cosmogony of Self.",
     "current_focus":  ["Comprehending", "Connecting", "Creating"],
-    "🐦‍⬛✨":          "Mozart said, "Go on a Journey." I have no idea what lies ahead. But I've taken the first steps.🌌""
+    "🐦‍⬛✨":          "Mozart said, \"Go on a Journey.\" I have no idea what lies ahead. But I've taken the first steps.🌌"
 }
 ```
 ---
@@ -93,12 +93,6 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <!-- GitHub Stats Card customized with Nebula Blue and Void Purple -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amereyraven&show_icons=true&title_color=94B1FF&icon_color=8C52FF&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" height="170"/>
-  &nbsp;&nbsp;
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amereyraven&layout=compact&title_color=94B1FF&text_color=ffffff&bg_color=0d1117&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <!-- Streak Stats customized -->
