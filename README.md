@@ -19,7 +19,7 @@
     "identity":       "Áme Rey Raven",
     "status":         "Navigating the Cosmogony of Self.",
     "current_focus":  ["Comprehending", "Connecting", "Creating"],
-    "🐦‍⬛✨":          "Mozart said, "Go on a Journey." I have no idea what lies ahead. But I've taken the first steps.🌌"
+    "🐦‍⬛✨":          "Mozart said, "Go on a Journey." I have no idea what lies ahead. But I've taken the first steps.🌌""
 }
 ```
 ---
