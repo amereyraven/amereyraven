@@ -1,6 +1,6 @@
 <!-- Header Wave Animation (Using your Purple to Blue gradient) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C52FF,100:94B1FF&height=200&section=header&text=Áme%20Rey%20Raven&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Central%20Nexus%20%7C%20Digital%20Echoes&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94B1FF,100:94B1FF&height=200&section=header&text=Áme%20Rey%20Raven&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Central%20Nexus%20%7C%20Digital%20Echoes&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <!-- Animated Typing (Using Nebula Blue) -->
@@ -118,7 +118,7 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94B1FF,100:8C52FF&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94B1FF,100:94B1FF&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
