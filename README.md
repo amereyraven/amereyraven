@@ -24,9 +24,9 @@
 ```
 ---
 
-<h2 align="center">🔗 The Digital Linktree (Coordinates & Echoes)</h2>
+<h2 align="center">🧭 The Coordinates </h2>
 
-<h3 align="center">🌐 The Hubs (Websites & Portfolios)</h3>
+<h3 align="center">🪐 The Hubs (Websites & Portfolios)</h3>
 <p align="center">
   <a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/🐦‍⬛_Website-000000?style=for-the-badge"/></a>
   <a href="YOUR_WIX_URL"><img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white"/></a>
@@ -44,7 +44,7 @@
 
 <h3 align="center">🔮 The Transmissions (Video & Streaming)</h3>
 <p align="center">
-  <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@%C3%81meReyRaven"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="YOUR_TWITCH_URL"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="YOUR_VIMEO_URL"><img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a>
@@ -52,8 +52,8 @@
 
 <h3 align="center">📜 The Archives (Writing, Blogging & Code)</h3>
 <p align="center">
-  <a href="YOUR_SUBSTACK_URL"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
-  <a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://amereyraven.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
+  <a href="https://amereyraven.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="YOUR_WORDPRESS_URL"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a href="YOUR_BLOGSPOT_URL"><img src="https://img.shields.io/badge/Blogspot-F37100?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="YOUR_TUMBLR_URL"><img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white"/></a>
