@@ -6,7 +6,7 @@
 <!-- Animated Typing (Using Nebula Blue) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=94B1FF&center=true&vCenter=true&width=600&lines=Welcome+to+the+Central+Nexus;Feathers,+Code,+and+the+Spaces+Between;Decrypting+Digital+Coordinates...;%E2%9C%A8+Vibrating+at+a+different+frequency+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=94B1FF&center=true&vCenter=true&width=600&lines=Welcome+to+the+Nexus;Feathers,+Spaces,+and+the+Spaces+Between;Decrypting+Digital+Coordinates...;%E2%9C%A8+Vibrating+at+a+different+frequency+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
