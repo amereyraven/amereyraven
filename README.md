@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@%C3%81meReyRaven"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="YOUR_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="YOUR_TWITCH_URL"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/amereyraven"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="YOUR_VIMEO_URL"><img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a>
 </p>
 
