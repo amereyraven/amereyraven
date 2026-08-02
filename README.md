@@ -61,6 +61,8 @@
   <a href="https://github.com/amereyraven"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="YOUR_GITLAB_URL"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
   <a href="YOUR_PASTEBIN_URL"><img src="https://img.shields.io/badge/Pastebin-022B3A?style=for-the-badge&logo=pastebin&logoColor=white"/></a>
+  <a href="https://archive.org/details/@_me_rey_raven/uploads"><img src="https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Internet Archive"/>
+</a>
 </p>
 
 <h3 align="center">🏺 The Amphora</h3>
