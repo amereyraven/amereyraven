@@ -70,7 +70,7 @@
   <a href="https://letterboxd.com/amereyraven/"><img src="https://img.shields.io/badge/Letterboxd-00D700?style=for-the-badge&logo=letterboxd&logoColor=white"/></a>
   <a href="YOUR_IMDB_URL"><img src="https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black"/></a>
   <a href="https://goodreads.com/amereyraven"><img src="https://img.shields.io/badge/Goodreads-e9e5cd?style=for-the-badge&logo=goodreads&logoColor=333333"/></a>
-  <a href="YOUR_PINTEREST_URL"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+  <a href="https://www.pinterest.com/amereyraven/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
 </p>
 
 <h3 align="center">🕸️ The Coven </h3>
