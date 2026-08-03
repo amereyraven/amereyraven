@@ -38,6 +38,7 @@
   <a href="YOUR_SPOTIFY_ARTIST_URL"><img src="https://img.shields.io/badge/Artist-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/21km7frf2nseaauabeav5arcy"><img src="https://img.shields.io/badge/Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="YOUR_APPLE_MUSIC_URL"><img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white"/></a>
+  <a href="https://music.youtube.com/@%C3%81meReyRaven"><img src="https://img.shields.io/badge/Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://soundcloud.com/amereyraven"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
   <a href="https://amereyraven.bandcamp.com"><img src="https://img.shields.io/badge/Bandcamp-629AA9?style=for-the-badge&logo=bandcamp&logoColor=white"/></a>
 </p>
