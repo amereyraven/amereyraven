@@ -39,7 +39,7 @@
   <a href="https://open.spotify.com/user/21km7frf2nseaauabeav5arcy"><img src="https://img.shields.io/badge/Playlists-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="YOUR_APPLE_MUSIC_URL"><img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white"/></a>
   <a href="https://soundcloud.com/amereyraven"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
-  <a href="YOUR_BANDCAMP_URL"><img src="https://img.shields.io/badge/Bandcamp-629AA9?style=for-the-badge&logo=bandcamp&logoColor=white"/></a>
+  <a href="https://amereyraven.bandcamp.com"><img src="https://img.shields.io/badge/Bandcamp-629AA9?style=for-the-badge&logo=bandcamp&logoColor=white"/></a>
 </p>
 
 <h3 align="center">🔮 The Transmissions </h3>
